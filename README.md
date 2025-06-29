@@ -7,8 +7,8 @@ In the project directory, you can run:
 ## npm install
 Run the command after cloning the project frontendgoogledrive-app.
 
-### npm install node-modules
-Run the command npm install node-modules after npm install. To install the modules.
+### npm install react-bootstrap bootstrap
+This command installs both the React Bootstrap components and the underlying Bootstrap CSS library.
 
 #### npm start
 Runs the app in the development mode.
